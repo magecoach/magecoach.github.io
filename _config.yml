@@ -1,6 +1,7 @@
 url: https://mage.coach/
 url-non: https://mage.coach
 static-url: https://static.mage.coach
+baseurl: 
 
 # Site settings
 title: Mage Coach
