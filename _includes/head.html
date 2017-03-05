@@ -1,10 +1,13 @@
 <head>
 	<meta charset="utf-8">
 	<title>{{ page.title }}</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
 	<meta name="description" content="{{ page.description }}">
 	<meta name="keywords" content="{{ page.keywords }}">
 	<meta name="author" content="{{ page.author }}">
+  <meta name="robots" content="{{ site.robots }}"/>
+  <meta name="apple-mobile-web-app-capable" content="yes">
 
 	<link rel="canonical" href="{{site.baseurl}}{{ page.url | replace:'index.html','' }}"/>
 
