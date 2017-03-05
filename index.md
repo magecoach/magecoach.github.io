@@ -6,7 +6,7 @@ keywords: mage.coach, wpo, webperf, perfmatters, fast, site, speed, web performa
 nav: start
 image: https://static.mage.coach/img/magecoach-twitter.png
 ---
-<img src="{{site.static-url}}/img/logos/logoBig.svg" class="pull-left img-big" alt="Mage.coach logo" width="188" height="200" onLoad="window.performance.mark('logoTime');">
+<img src="{{site.static-url}}/img/coach/penguin_report.svg" class="pull-left img-big" alt="Mage.coach logo" width="188" height="200" onLoad="window.performance.mark('logoTime');">
 
 ## Welcome to the wonderful world of Web Performance
 
