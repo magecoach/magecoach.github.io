@@ -1,8 +1,8 @@
 ---
 layout: default
-title: The sitespeed.io blog
-description: The latest news from the sitespeed.io world
-keywords: sitespeed.io, peter hedenskog, tobias lidskog, jonathan lee
+title: The mage.coach blog
+description: The latest news from the mage.coach world
+keywords: mage.coach, ray bogman, ronald bethlehem
 nav: blog
 ---
 
