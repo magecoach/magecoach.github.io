@@ -11,12 +11,12 @@ layout: compress
 	<meta name="keywords" content="{{ page.keywords }}">
 	<meta name="author" content="{{ page.author }}">
 
-	<link rel="canonical" href="https://www.sitespeed.io{{ page.url | replace:'index.html','' }}"/>
+	<link rel="canonical" href="{{site.baseurl}}{{ page.url | replace:'index.html','' }}"/>
 
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="@sitespeedio">
-	<meta name="twitter:creator" content="@soulislove">
-	<meta name="twitter:url" content="https://www.sitespeed.io{{ page.url | replace:'index.html','' }}">
+	<meta name="twitter:site" content="@magecoach">
+	<meta name="twitter:creator" content="@raybogman">
+	<meta name="twitter:url" content="{{site.baseurl}}{{ page.url | replace:'index.html','' }}">
 	<meta name="twitter:title" content="{{ page.title | truncate:70  }}">
 
 	{% if page.twitterdescription %}
@@ -31,15 +31,15 @@ layout: compress
 
 	<meta property="og:image" content="{{site.baseurl}}/img/sitespeed.io-400x400.png">
 	<meta property="og:title" content="{{ page.title }}">
-	<meta property="og:url" content="https://www.sitespeed.io{{ page.url | replace:'index.html','' }}">
-	<meta property="og:site_name" content="Sitespeed.io - How speedy is your website">
+	<meta property="og:url" content="{{site.baseurl}}{{ page.url | replace:'index.html','' }}">
+	<meta property="og:site_name" content="Mage.coach - How speedy is your Magento website">
 	<meta property="og:description" content="{{ page.description | truncate:200 }}">
 
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.baseurl}}/img/ico/sitespeed.io-144.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.baseurl}}/img/ico/sitespeed.io-114.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{site.baseurl}}/img/ico/sitespeed.io-72.png">
-<link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/ico/sitespeed.io-57.png">
-<link rel="shortcut icon" href="{{site.baseurl}}/img/ico/sitespeed.io.ico">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.static-url}}/img/ico/mage.coach-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.static-url}}/img/ico/mage.coach-114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{site.static-url}}/img/ico/mage.coach-72.png">
+<link rel="apple-touch-icon-precomposed" href="{{site.static-url}}/img/ico/mage.coach-57.png">
+<link rel="shortcut icon" href="{{site.static-url}}/img/ico/mage.coach.ico">
 
 	<style>{% include css/default.css %}</style>
 	<script type="text/javascript">{% include userTimings.js %}</script>
