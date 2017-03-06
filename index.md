@@ -13,3 +13,5 @@ image: https://static.mage.coach/img/magecoach-twitter.png
 Mage.coach is a set of Open Source tools that helps make your web pages faster.
 
 Try out Mage.coach
+
+<button type="button">run.mage.coach</button>
