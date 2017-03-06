@@ -211,7 +211,7 @@ blockquote span:before {
   margin-right : 3px;
 }
 
-.button {
+.btn {
   background: #0095d2;
   background-image: -webkit-linear-gradient(top, #0095d2, #0073b0);
   background-image: -moz-linear-gradient(top, #0095d2, #0073b0);
@@ -231,7 +231,7 @@ blockquote span:before {
   text-decoration: none;
 }
 
-.button:hover {
+.btn:hover {
   background: #3cb0fd;
   background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
   background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
