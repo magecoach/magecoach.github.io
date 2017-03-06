@@ -14,4 +14,4 @@ Mage.coach is a set of Open Source tools that helps make your web pages faster.
 
 Try out Mage.coach
 
-<button class="btn" formaction="https://run.mage.coach">run.mage.coach</button>
+<a class="btn" href="https://run.mage.coach" title="run.mage.coach">run.mage.coach</a>
