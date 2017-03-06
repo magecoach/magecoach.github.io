@@ -8,6 +8,9 @@
 	<meta name="author" content="{{ page.author }}">
   <meta name="robots" content="{{ site.robots }}"/>
   <meta name="apple-mobile-web-app-capable" content="yes">
+	<link rel="dns-prefetch" href="{{site.static-url}}">
+	<link rel="preconnect" href="{{site.static-url}}">
+	<link rel="prerender" href="{{site.static-url}}">
 
 	<link rel="canonical" href="{{site.baseurl}}{{ page.url | replace:'index.html','' }}"/>
 
