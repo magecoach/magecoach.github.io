@@ -211,6 +211,10 @@ blockquote span:before {
   margin-right : 3px;
 }
 
+.button{
+  float: right;
+}
+
 .btn {
   background: #0095d2;
   background-image: -webkit-linear-gradient(top, #0095d2, #0073b0);
