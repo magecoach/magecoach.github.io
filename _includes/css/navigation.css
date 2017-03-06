@@ -49,7 +49,7 @@ body {
 }
 
 .navbar-brand {
-padding: 0px 0px;
+padding: 5px;
 font-size: 18px;
 max-width: 250px;
 }
@@ -74,7 +74,7 @@ max-width: 250px;
   }
 
   .navbar-brand {
-  padding: 0px 0px;
+  padding: 5px;
   font-size: 18px;
   float: left;
   max-width: 250px;
