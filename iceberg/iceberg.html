@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Countdown</title>
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+
+        <script >
+            $( document ).ready(function() {
+              $('.ship').css("left", window.innerWidth).animate({
+                 left:-100
+              },50000,ship_loop);
+              $('.cloud1').animate({
+                 left:window.innerWidth*-1
+              },40000,cloud1_loop);
+
+              $('.cloud2').animate({
+                 left:window.innerWidth
+              },45000,cloud2_loop);
+
+            });
+
+            function cloud1_loop(){
+                $('.cloud1').css("left",window.innerWidth-1000).animate({
+                    left:window.innerWidth*-1
+                 },40000,cloud1_loop);
+            }
+
+            function cloud2_loop(){
+                $('.cloud2').css("left",-500).animate({
+                 left:window.innerWidth
+              },45000,cloud2_loop);
+            }
+
+            function ship_loop()
+            {
+                $('.ship').css("left", window.innerWidth).animate({
+                 left:-100
+              },50000,ship_loop);
+            }
+        </script>
+
+    </head>
+    <body>
+        <div class="cloud1"></div>
+        <div class="cloud2"></div>
+        <div id="coming_soon"></div>
+
+        <div id="subscribe">
+            <input type="text" class="mail" placeholder="Type your e-mail address">
+            <button type="submit" style="border: 0; background: transparent;top:15px; position: relative">
+                <img src="images/subcribe_button.png" width="92" height="42" alt="submit">
+            </button>
+        </div>
+        <div class="ship"></div>
+        <div id="ice">
+
+        </div>
+
+</body>
+</html>

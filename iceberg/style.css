@@ -1,0 +1,155 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Mar 10, 2014, 10:57:44 AM
+    Author     : ErolD
+*/
+
+@font-face {
+    font-family: 'houschkamediumregular';
+    src: url('../fonts/ouschkamedium-webfont.eot');
+    src: url('../fonts/houschkamedium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/houschkamedium-webfont.woff') format('woff'),
+         url('../fonts/houschkamedium-webfont.ttf') format('truetype'),
+         url('../fonts/houschkamedium-webfont.svg#houschkamediumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'houschkaboldregular';
+    src: url('../fonts/houschkabold-webfont.eot');
+    src: url('../fonts/houschkabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/houschkabold-webfont.woff') format('woff'),
+         url('../fonts/houschkabold-webfont.ttf') format('truetype'),
+         url('../fonts/houschkabold-webfont.svg#houschkaboldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("images/bg.png");
+    background-color: #266b97;
+    background-repeat: repeat-x;
+    overflow-x: hidden;
+}
+
+#clouds{
+    width: 100%;
+    clear: both;
+    float: left;
+}
+.cloud1{
+    width: 330px;
+    height: 51px;
+    display: block;
+    margin: 0 75% 0;
+    position: relative;
+    background-image: url("images/cloud1.png");
+}
+
+.cloud2{
+    width: 201px;
+    height: 58px;
+    display: block;
+    margin: -58px 15% 0;
+    position: relative;
+    background-image: url("images/cloud2.png");
+}
+
+#coming_soon{
+    width: 516px;
+    height: 84px;
+    margin: 65px auto 0;
+    background-image: url("images/coming_soon.png");
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#ice{
+    width: 332px;
+    height: 494px;
+    background-repeat: no-repeat;
+    background-image: url("images/ice.png");
+    display: block;
+    margin: 36px auto 50px;
+    position: relative;
+}
+#subscribe{
+    width: 370px;
+    height: 42px;
+    display: block;
+    margin: 0 auto 0;
+}
+
+.timer {
+    width: 332px;
+    height: 70px;
+    margin-top: 270px;
+    position: absolute;
+    float: left;
+}
+
+.timer_item{
+    width: 74px;
+    height: 74px;
+    background-image: url("images/count_item_bg.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.timer_item p{
+    text-align: center;
+    font-family: "houschkaboldregular";
+    color: #266b97;
+    font-size: 24px;
+}
+
+.item_holder {
+    width: 74px;
+    height: 74px;
+    float: left;
+    margin-left: 24px;
+    text-align: center;
+    font-family: "houschkaboldregular";
+    color: #FFF;
+    font-size: 20px;
+}
+
+.mail{
+    width: 236px;
+    height: 40px;
+    background-image: url("images/input_bg.png");
+    border: none !important;
+    font-family: "houschkaboldregular";
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+.ship{
+    background-image: url("images/ship.png");
+    width: 48px;
+    height: 51px;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin: 210px 0 0;
+}
+
+
+
+input, select, textarea {
+    border-top: 1px #acaeb4 solid;
+    border-left: 1px #dde1e7 solid;
+    border-right: 1px #dde1e7 solid;
+    border-bottom: 2px #f1f4f7 solid;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    background: transparent;
+}
