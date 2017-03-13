@@ -1,6 +1,6 @@
 ## Be a performance hero!
 * * *
 
-[<img src="{{site.static-url}}/img/coach/penguin_about.svg" class="pull-left img-big" alt="Are you a Magento Performance hero?" width="180" height="151">](https://run.mage.coach)
+[<amp-img noloading height=151 width=180 alt="{{ page.title }}" attribution="{{ page.title }}" layout=responsive src="{{site.static-url}}/img/coach/penguin_about.svg" class="pull-left img-big"></amp-img>](https://run.mage.coach)
 
 Are you a Magento Performance hero? Test your Magento site now, and check if you need additional tuning.
