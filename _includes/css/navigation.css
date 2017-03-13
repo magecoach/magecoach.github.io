@@ -24,7 +24,7 @@ body {
   font-size: 1em;
   line-height: 40px;
   height: 40px;
-  border-bottom: 1px solid #0073b0;
+  border-bottom: 1px solid #b9d6ef;
 }
 
 .nav a {
@@ -34,11 +34,11 @@ body {
 }
 
 .nav a:hover {
-  background-color: #0073b0;
+  background-color: #b9d6ef;
 }
 
 .nav a.active {
-  background-color: #0073b0;
+  background-color: #b9d6ef;
   color: #fff;
   cursor: default;
 }
