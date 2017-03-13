@@ -206,7 +206,7 @@ blockquote span:before {
   padding: 0 30px;
   color: #555;
   text-align: center;
-  font-size: 1em;
+  font-size: 14px;
   font-weight: 600;
   line-height: 38px;
   letter-spacing: .1rem;
@@ -224,9 +224,9 @@ blockquote span:before {
   border-color: #888;
   outline: 0; }
 .button.button-primary {
-  color: #FFF;
-  background-color: #33C3F0;
-  border-color: #33C3F0; }
+  color: #000000;
+  background-color: #ffd100;
+  border-color: #ffd100; }
 .button.button-primary:hover,
 .button.button-primary:focus {
   color: #FFF;
