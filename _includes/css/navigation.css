@@ -10,7 +10,7 @@ body {
 }
 
 .nav {
-  background: #0095d2;
+  background: #266b97;
 }
 
 .nav ul {
@@ -18,7 +18,7 @@ body {
   text-align: center;
   padding: 0;
   margin: 0;
-  background-color: #0095d2;
+  background-color: #266b97;
 }
 .nav li {
   font-size: 1em;
@@ -45,7 +45,7 @@ body {
 
 .logo {
   text-align: center;
-  background-color: #0095d2;
+  background-color: #266b97;
 }
 
 .navbar-brand {
@@ -89,7 +89,7 @@ max-width: 250px;
   .nav {
     z-index: 10;
     top: 0;
-    background-color: #0095d2;
+    background-color: #266b97;
   }
 
   .nav li {
@@ -113,7 +113,7 @@ max-width: 250px;
     text-align: center;
     padding: 0;
     margin: 0;
-    background-color: #0095d2;
+    background-color: #266b97;
   }
 
   /* Sub Menus */
