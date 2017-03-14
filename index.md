@@ -15,5 +15,5 @@ Mage.coach is a set of Open Source tools that helps make your web pages faster.
 Try out Mage.coach now and improve your Magento website!
 
 <div class="btn">
-  <a class="button button-primary" href="https://run.mage.coach" title="run.mage.coach">run.mage.coach</a>
+  <a class="button button-primary" href="https://run.mage.coach" title="run.mage.coach">Start analyzing</a>
 </div>
