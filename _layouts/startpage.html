@@ -5,6 +5,7 @@ layout: compress
 <html ⚡ lang="en">
 {% include head.html %}
 <body>
+	{% include ga.html %}
 	{% include header.html %}
 <div class="grid">
 		<div class="col-1-1">
@@ -19,7 +20,7 @@ layout: compress
 		</div>
 		<div class="col-1-2">
 			{% capture box2 %}{% include index/box2.md %}{% endcapture %}
-			{{ box2 }}
+			{{ box2 | markdownify }}
 		</div>
 	</div>
 	<div class="grid">

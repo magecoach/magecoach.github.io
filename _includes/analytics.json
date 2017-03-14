@@ -1,0 +1,11 @@
+{
+   "vars": {
+     "account": "{{ site.google_analytics }}"
+   },
+   "triggers": {
+     "trackPageview": {
+       "on": "visible",
+       "request": "pageview"
+     }
+   }
+ }
