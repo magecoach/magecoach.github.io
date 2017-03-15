@@ -3,6 +3,6 @@
 * * *
 
 {{ post.intro }}
-[Read the blog post to find out more]({{site.baseurl}}{{ post.url }}) or read the [Changelog](https://github.com/sitespeedio/sitespeed.io/blob/master/CHANGELOG.md) for all the latest changes.
+[Read the blog post to find out more]({{site.baseurl}}{{ post.url }}) or read the [Changelog](https://github.com/magecoach/mage.coach.github.io/blob/master/CHANGELOG.md) for all the latest changes.
 
 {% endfor %}
