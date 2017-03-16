@@ -16,11 +16,11 @@ footer h3 {
 }
 
 .pull-left {
-float: left!important;
+float: left;
 }
 
 .pull-right {
-float: right!important;
+float: right;
 }
 
 .img-big {

@@ -273,7 +273,7 @@ body {
   }
 
   .hide-on-mobile {
-    display: none !important;
+    display: none;
     width: 0;
     height: 0;
   }
