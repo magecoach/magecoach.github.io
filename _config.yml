@@ -20,6 +20,9 @@ social:
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+sass:
+    style: compressed
 compress_html:
   clippings: all
   endings: all
@@ -32,7 +35,6 @@ kramdown:
     coderay_tab_width:         4
     coderay_bold_every:        10
     coderay_css:               style
-permalink: pretty
 
 sitemap:
   lastmod: 2016-09-26
@@ -45,4 +47,3 @@ gems:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-seo-tag
-  - jemoji
