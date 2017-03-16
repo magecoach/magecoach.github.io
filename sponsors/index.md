@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Example of a sitespeed.io run.
+title: Want to be a Mage.coach Sponsor? Signup!.
 description: Here is examples of what the result looks like, when you run sitespeed.io.
-keywords: sitespeed.io, examples, results, wpo, web performance optimization
+keywords: mage.coach, examples, results, wpo, web performance optimization
 nav: sponsors
-image: https://www.sitespeed.io/img/sitespeed-2.0-twitter.png
+image: https://static.mage.coach/img/magecoach-twitter.png
 ---
 
 # Sponsor mage.coach
