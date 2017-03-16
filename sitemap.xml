@@ -5,7 +5,7 @@
     {% for page in site.pages %}
     {% if page.layout != nil %}
     <url>
-        <loc>{{ site.baseurl }}{{ page.url | remove: 'index.html' }}</loc>
+        <loc>{{site.baseurl}}{{ page.url | remove: 'index.html' }}</loc>
         {% if page.url contains 'release-notes' %}
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
