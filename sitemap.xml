@@ -6,8 +6,8 @@ sitemap:
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% for page in site.pages %}
-    {% if page.layout != nil %}
     {% unless page.sitemap.exclude == "yes" %}
+    {% if page.layout != nil %}
     <url>
         <loc>https://mage.coach{{ page.url | remove: 'index.html' }}</loc>
         {% if page.url contains 'release-notes' %}
@@ -18,7 +18,7 @@ sitemap:
         <priority>1.0</priority>
         {% endif %}
     </url>
-    {% endunless %}
     {% endif %}
+    {% endunless %}
     {% endfor %}
 </urlset>
