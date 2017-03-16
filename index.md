@@ -6,7 +6,7 @@ keywords: mage.coach, wpo, webperf, perfmatters, fast, site, speed, web performa
 nav: start
 image: https://static.mage.coach/img/magecoach-twitter.png
 ---
-<amp-img noloading height="200" width="188" alt="Mage.coach logo" layout="responsive" src="{{site.static-url}}/img/coach/penguin_report.svg" class="pull-left img-big"></amp-img>
+<img src="{{site.static-url}}/img/coach/penguin_report.svg" class="pull-left img-big" alt="Mage.coach logo" width="188" height="200">
 
 # Welcome to the Magento Performance Coach
 
