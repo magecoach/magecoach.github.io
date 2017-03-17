@@ -234,6 +234,20 @@ blockquote span:before {
   border-color: #1EAEDB;
 }
 
+amp-accordion section[expanded] .show-more {
+  display: none;
+}
+amp-accordion section:not([expanded]) .show-less {
+  display: none;
+}
+.nested-accordion h4 {
+  font-size: 14px;
+  background-color: #ddd;
+}
+amp-accordion#hidden-header section[expanded] h4 {
+  border: none;
+}
+
 @media screen and (max-width: 820px) {
   .small {
     text-align: center;
