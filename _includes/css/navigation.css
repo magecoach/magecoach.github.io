@@ -52,6 +52,7 @@ body {
 padding: 5px;
 font-size: 18px;
 max-width: 250px;
+margin: 0 auto;
 }
 
 .nav li ul {
