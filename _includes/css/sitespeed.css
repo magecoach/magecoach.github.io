@@ -248,7 +248,7 @@ amp-accordion#hidden-header section[expanded] h4 {
   border: none;
 }
 
-accordion>section {
+amp-accordion>section {
   padding: 10px 10px 10px 10px;
 }
 
