@@ -240,11 +240,11 @@ amp-accordion section[expanded] .show-more {
 amp-accordion section:not([expanded]) .show-less {
   display: none;
 }
-.nested-accordion h4 {
+.nested-accordion h3 {
   font-size: 14px;
   background-color: #ddd;
 }
-amp-accordion#hidden-header section[expanded] h4 {
+amp-accordion#hidden-header section[expanded] h3 {
   border: none;
 }
 
@@ -252,15 +252,15 @@ amp-accordion>section{
   padding: 10px 0 5px 0;
 }
 
-amp-accordion h3{
+amp-accordion>h3{
   padding: 5px 0px 5px 20px;
 }
 
-amp-accordion p{
+amp-accordion>p{
   padding-left: 20px;
 }
 
-amp-accordion ul{
+amp-accordion>ul{
   padding-left: 40px;
 }
 
