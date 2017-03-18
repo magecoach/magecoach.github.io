@@ -248,8 +248,8 @@ amp-accordion#hidden-header section[expanded] h4 {
   border: none;
 }
 
-amp-accordion>section {
-  padding: 10px 10px 10px 10px;
+amp-accordion>section h3{
+  padding: 10px 0 5px 0;
 }
 
 @media screen and (max-width: 820px) {
