@@ -78,6 +78,8 @@ max-width: 250px;
   font-size: 18px;
   float: left;
   max-width: 250px;
+  width: auto;
+  height: auto;
   }
 
   .nav a {
