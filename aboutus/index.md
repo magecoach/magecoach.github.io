@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Us
+title: About Us - Mage.coach
 description: The team behind mage.coach
 author: Ray Bogman
 keywords: mage.coach, about, Ray Bogman, Ronald Bethlehem

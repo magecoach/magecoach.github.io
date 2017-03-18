@@ -8,3 +8,5 @@ image: https://static.mage.coach/img/magecoach-twitter.png
 ---
 
 # Examples mage.coach
+
+This is a visual overview of a Mage.coach run and some realtime examples.
