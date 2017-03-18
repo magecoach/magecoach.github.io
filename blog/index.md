@@ -11,8 +11,7 @@ nav: blog
 
 {% for post in site.posts %}
 
-<a href="{{ site.url-non }}{{ post.url }} title="{{ post.title }}">
-<amp-img noloading width="100" height="100" alt="{{ post.title }}" layout="responsive" src="{{site.static-url}}{{ post.authorimage }}" class="photo pull-left"></amp-img></a>
+<amp-img noloading width="100" height="100" alt="{{ post.title }}" layout="responsive" src="{{site.static-url}}{{ post.authorimage }}" class="photo pull-left"></amp-img>
 
 ## [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 
