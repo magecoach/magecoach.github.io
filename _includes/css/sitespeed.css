@@ -239,7 +239,6 @@ amp-accordion section[expanded] .show-more {
 }
 amp-accordion section:not([expanded]) .show-less {
   display: none;
-  padding: 10px 10px 10px 10px;
 }
 .nested-accordion h4 {
   font-size: 14px;
@@ -247,6 +246,10 @@ amp-accordion section:not([expanded]) .show-less {
 }
 amp-accordion#hidden-header section[expanded] h4 {
   border: none;
+}
+
+amp-accordion>section {
+  padding: 10px 10px 10px 10px;
 }
 
 @media screen and (max-width: 820px) {
