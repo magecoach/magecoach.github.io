@@ -76,6 +76,7 @@ margin: 0 auto;
 
   .navbar-brand {
   padding: 5px;
+  margin-right: 10px;
   font-size: 18px;
   float: left;
   max-width: 250px;
