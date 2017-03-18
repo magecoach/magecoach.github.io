@@ -9,6 +9,8 @@ image: https://static.mage.coach/img/magecoach-twitter.png
 
 # Sponsor mage.coach
 
+<a href="https://run.mage.coach"><img src="https://static.mage.coach/img/coach/penguin_sponsors.svg" class="pull-left img-big" alt="Contribute, make Mage.coach better!" width="180" height="151"></a>
+
 Do you like Mage Coach and want to help us keeping it online? Then you can help us out as a sponsor. Please contact us via <a href="mailto:sponsor@mage.coach?subject=Mage Coach Sponsor&amp;body=I'd love to Sponsor Mage Coach">mail.</a>
 
 Want your text or logo banner on our site or result page, please contact us.
