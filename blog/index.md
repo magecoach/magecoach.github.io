@@ -10,7 +10,7 @@ nav: blog
 
 
 {% for post in site.posts %}
-  <img src="{{site.static-url}}{{ post.authorimage }}" class="photo pull-left" width="100" height="100">
+<amp-img noloading width="100" height="100" alt="{{ post.title }}" layout="responsive" src="{{site.static-url}}{{ post.authorimage }}" class="photo pull-left"></amp-img>
 
 ## [{{ post.title }}]({{site.baseurl}}{{ post.url }})
 
