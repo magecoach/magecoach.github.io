@@ -10,10 +10,10 @@ nav: blog
 
 
 {% for post in site.posts %}
-<a href="{{site.baseurl}}{{ post.url }} title="{{ post.title }}">
+<a href="{{ site.baseurl }}{{ post.url }} title="{{ post.title }}">
 <amp-img noloading width="100" height="100" alt="{{ post.title }}" layout="responsive" src="{{site.static-url}}{{ post.authorimage }}" class="photo pull-left"></amp-img></a>
 
-## [{{ post.title }}]({{site.baseurl}}{{ post.url }})
+## [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 
 **{{ post.date | date: '%Y' }}-{{ post.date | date: '%m' }}-{{ post.date | date: '%d' }}** -
   {{ post.intro }}
