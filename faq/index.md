@@ -16,7 +16,7 @@ nav: faq
   </section>
   <section>
     <h3>What's the deal with the Penguin and Iceberg?</h3>
-    <p>Our mascout the Penguin is the icon of the open source project called Linux, and a strong fondation we believe in. And it just looks friendly! <br/>The iceberg is more like a metafoor, it stand for the 80/20 rule. 80 Procent is related to the Magento frontend, while 20 procent is server related. So <strong>Magento Frontend Performance optimization</strong> is an important job! Run, Analyze and Fix.</p>
+    <p>Our mascout the Penguin is the icon of the open source project called Linux, and a strong fondation we believe in. And it just looks friendly! <br/><br/>The iceberg is more like a metafoor, it stand for the 80/20 rule. 80 Procent is related to the Magento frontend, while 20 procent is server related. So <strong>Magento Frontend Performance optimization</strong> is an important job! Run, Analyze and Fix.</p>
   </section>
   <section>
     <h3>What happens when you test my site?</h3>
