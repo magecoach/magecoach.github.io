@@ -11,8 +11,8 @@ nav: faq
 
 <amp-accordion>
   <section expanded>
-    <h3>Section 1</h3>
-    <p>Bunch of awesome content.</p>
+    <h2>Why Mage.coach?</h2>
+     <p>Well Mage.coach started as a hobby project some time back. It all relates to the passion about speedy websites. Magento Performance became important early on. So we wanted to create a build a tool witch help on a daily basis and can guide you while fixing your Magento website.</p>
   </section>
   <section>
     <h3>Section 2</h3>
