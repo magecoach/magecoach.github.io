@@ -17,6 +17,8 @@ footer h3 {
 
 .pull-left {
 float: left;
+width: 20vw;
+height: 20vw;
 }
 
 .pull-right {
