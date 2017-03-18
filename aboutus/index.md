@@ -11,7 +11,7 @@ nav: aboutus
 
 Mage.coach is an highly configurable web performance tool that helps you analyze your Magento website's speed and performance based on performance best practices and timing metrics.
 
-Mage.coach is an idea created by Ray Bogman, who has been active in the Magento Community since 2008, and Ronald Bethlehem. This project is build on top of Sitespeed.io, an Open Source performance metric tool created by Peter Hedenskog.
+Mage.coach is an idea created by [Ray Bogman](https://www.linkedin.com/in/raybogman){:title="Ray Bogman"}, who has been active in the Magento Community since 2008, and [Ronald Bethlehem](https://www.linkedin.com/in/ronald-bethlehem-65456782){:title="Ronald Bethlehem"}. This project is build on top of [Sitespeed.io](https://www.sitespeed.io/){:title="Sitespeed.io"}, an Open Source performance metric tool created by Peter Hedenskog.
 
 We are a two member team that works on mage.coach in our free time. New contributors and team members are very welcomed!
 
