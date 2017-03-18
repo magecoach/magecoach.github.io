@@ -256,8 +256,12 @@ amp-accordion h3{
   padding: 5px 0px 5px 20px;
 }
 
-amp-accordion p, ul{
+amp-accordion p{
   padding-left: 20px;
+}
+
+amp-accordion ul{
+  padding-left: 40px;
 }
 
 @media screen and (max-width: 820px) {
