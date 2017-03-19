@@ -2,8 +2,8 @@
 layout: default
 title: Mage.coach Sticker swag!
 description: Mage.coach Sticker swag!
-image: /img/magecoach-sticker.jpg
-authorimage: /img/team/ray.jpg
+image: /img/blog/magecoach-stickers.jpg
+authorimage: /img/team/ray.svg
 intro: Mage.coach Sticker swag!
 keywords: mage.coach, sticker, site, speed, webperf, performance, S3
 nav: blog
