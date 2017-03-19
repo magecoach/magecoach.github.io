@@ -12,101 +12,19 @@ image: https://static.mage.coach/img/magecoach-twitter.png
 This is a visual overview of a Mage.coach run and some realtime examples.
 
 <div>
-  <amp-carousel id="carousel-with-carousel-preview"
-    width="400"
-    height="300"
-    layout="responsive"
-    type="slides">
-    <amp-img src="https://unsplash.it/400/300?image=10"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=11"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=12"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=13"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=14"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=15"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=16"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=17"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=18"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=19"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=110"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=111"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=112"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=113"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=114"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=115"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=116"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
-    <amp-img src="https://unsplash.it/400/300?image=117"
-      width="400"
-      height="300"
-      layout="responsive"
-      alt="a sample image"></amp-img>
+  <amp-carousel id="carousel-with-carousel-preview" width="400" height="375" layout="responsive" type="slides">
+    <amp-img src="https://static.mage.coach/img/example/magecoach-hero.jpg"
+      width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
+    <amp-img src="https://static.mage.coach/img/example/magecoach-hero-toplist.jpg" width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
+    <amp-img src="https://static.mage.coach/img/example/magecoach-hero-summary.jpg" width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
+    <amp-img src="https://static.mage.coach/img/example/magecoach-hero-summary-detail.jpg" width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
+    <amp-img src="https://static.mage.coach/img/example/magecoach-hero-pages.jpg" width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
+    <amp-img src="https://static.mage.coach/img/example/magecoach-hero-pages-summary.jpg" width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
+    <amp-img src="https://static.mage.coach/img/example/magecoach-hero-pages-pagexray.jpg" width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
+    <amp-img src="https://static.mage.coach/img/example/magecoach-hero-pages-coach.jpg" width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
+    <amp-img src="https://static.mage.coach/img/example/magecoach-hero-pages-browsertime.jpg" width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
+    <amp-img src="https://static.mage.coach/img/example/magecoach-hero-domains.jpg" width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
+    <amp-img src="https://static.mage.coach/img/example/magecoach-hero-assets.jpg" width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
   </amp-carousel>
   <amp-carousel class="carousel-preview"
     width="auto"
