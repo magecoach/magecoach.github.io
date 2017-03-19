@@ -266,8 +266,27 @@ amp-accordion ul{
   padding-left: 40px;
 }
 
-#ship {
-    margin: -35px;
+#carousel-with-preview amp-img {
+  transition: opacity 1s ease-in-out;
+}
+.carousel-preview {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.carousel-preview button {
+  height: 40px;
+  width: 60px;
+  min-width: 60px;
+  margin: 4px;
+  padding: 0;
+}
+.carousel-preview .amp-carousel-slide {
+  margin: 4px;
+  padding: 0;
+}
+.carousel-preview button:active {
+  opacity: 0.5;
 }
 
 @media screen and (max-width: 820px) {
