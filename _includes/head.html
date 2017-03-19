@@ -17,7 +17,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@magecoach">
 	<meta name="twitter:creator" content="@raybogman">
-	<meta name="twitter:url" content="{{site.baseurl}}{{ page.url | replace:'index.html','' }}">
+	<meta name="twitter:url" content="{{site.url-non}}{{ page.url | replace:'index.html','' }}">
 	<meta name="twitter:title" content="{{ page.title | truncate:70  }}">
 
 	{% if page.twitterdescription %}
@@ -30,9 +30,9 @@
 	<meta name="twitter:image" content="{{ page.image }}">
 	{% endif %}
 
-	<meta property="og:image" content="{{site.baseurl}}/img/mage.coach-400x400.png">
+	<meta property="og:image" content="{{site.url-non}}/img/mage.coach-400x400.png">
 	<meta property="og:title" content="{{ page.title }}">
-	<meta property="og:url" content="{{site.baseurl}}{{ page.url | replace:'index.html','' }}">
+	<meta property="og:url" content="{{site.url-non}}{{ page.url | replace:'index.html','' }}">
 	<meta property="og:site_name" content="Mage.coach - How speedy is your Magento website">
 	<meta property="og:description" content="{{ page.description | truncate:200 }}">
 
