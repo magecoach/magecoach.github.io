@@ -26,17 +26,10 @@ This is a visual overview of a Mage.coach run and some realtime examples.
     <amp-img src="https://static.mage.coach/img/example/magecoach-hero-domains.jpg" width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
     <amp-img src="https://static.mage.coach/img/example/magecoach-hero-assets.jpg" width="400" height="375" layout="responsive" alt="a sample image"></amp-img>
   </amp-carousel>
-  <amp-carousel class="carousel-preview"
-    width="auto"
-    height="48"
-    layout="fixed-height"
+  <amp-carousel class="carousel-preview" width="auto" height="48" layout="fixed-height"
     type="carousel">
     <button on="tap:carousel-with-carousel-preview.goToSlide(index=0)">
-      <amp-img src="https://unsplash.it/60/40?image=10"
-        width="60"
-        height="40"
-        layout="responsive"
-        alt="a sample image"></amp-img>
+      <amp-img src="https://static.mage.coach/img/example/magecoach-hero.jpg" width="60" height="40" layout="responsive" alt="a sample image"></amp-img>
     </button>
     <button on="tap:carousel-with-carousel-preview.goToSlide(index=1)">
       <amp-img src="https://unsplash.it/60/40?image=11"
@@ -110,48 +103,6 @@ This is a visual overview of a Mage.coach run and some realtime examples.
     </button>
     <button on="tap:carousel-with-carousel-preview.goToSlide(index=11)">
       <amp-img src="https://unsplash.it/60/40?image=111"
-        width="60"
-        height="40"
-        layout="responsive"
-        alt="a sample image"></amp-img>
-    </button>
-    <button on="tap:carousel-with-carousel-preview.goToSlide(index=12)">
-      <amp-img src="https://unsplash.it/60/40?image=112"
-        width="60"
-        height="40"
-        layout="responsive"
-        alt="a sample image"></amp-img>
-    </button>
-    <button on="tap:carousel-with-carousel-preview.goToSlide(index=13)">
-      <amp-img src="https://unsplash.it/60/40?image=113"
-        width="60"
-        height="40"
-        layout="responsive"
-        alt="a sample image"></amp-img>
-    </button>
-    <button on="tap:carousel-with-carousel-preview.goToSlide(index=14)">
-      <amp-img src="https://unsplash.it/60/40?image=114"
-        width="60"
-        height="40"
-        layout="responsive"
-        alt="a sample image"></amp-img>
-    </button>
-    <button on="tap:carousel-with-carousel-preview.goToSlide(index=15)">
-      <amp-img src="https://unsplash.it/60/40?image=115"
-        width="60"
-        height="40"
-        layout="responsive"
-        alt="a sample image"></amp-img>
-    </button>
-    <button on="tap:carousel-with-carousel-preview.goToSlide(index=16)">
-      <amp-img src="https://unsplash.it/60/40?image=116"
-        width="60"
-        height="40"
-        layout="responsive"
-        alt="a sample image"></amp-img>
-    </button>
-    <button on="tap:carousel-with-carousel-preview.goToSlide(index=17)">
-      <amp-img src="https://unsplash.it/60/40?image=117"
         width="60"
         height="40"
         layout="responsive"
