@@ -307,4 +307,10 @@ amp-accordion ul{
     text-align: center;
     padding-bottom: 13px;
   }
+
+  .pull-left {
+  float: left;
+  width: 20vw;
+  height: 20vw;
+  }
 }
