@@ -17,6 +17,8 @@ social:
     url: https://twitter.com/magecoach
   - title: facebook
     url: https://www.facebook.com/magecoach
+  - title: youtube
+    url: https://www.youtube.com/channel/UCEmelQhyVjPdN07V286mt6g
 
 # Build settings
 markdown: kramdown
