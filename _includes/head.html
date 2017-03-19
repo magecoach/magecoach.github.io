@@ -27,10 +27,10 @@
 	{% endif %}
 
 	{% if page.image %}
-	<meta name="twitter:image" content="{{site.url-non}}{{ page.image }}">
+	<meta name="twitter:image" content="{{site.static-url}}{{ page.image }}">
 	{% endif %}
 
-	<meta property="og:image" content="{{site.url-non}}/img/mage.coach-400x400.png">
+	<meta property="og:image" content="{{site.static-url}}/img/mage.coach-400x400.png">
 	<meta property="og:title" content="{{ page.title }}">
 	<meta property="og:url" content="{{site.url-non}}{{ page.url | replace:'index.html','' }}">
 	<meta property="og:site_name" content="Mage.coach - How speedy is your Magento website">
