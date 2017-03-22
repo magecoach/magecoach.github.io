@@ -11,6 +11,7 @@ robots: INDEX,FOLLOW
 email: hello@mage.coach
 description: "How fast is your Magento site? How good does it follow web performance best practice rules? Find out by using Mage.coach."
 google_analytics: UA-89167735-2
+fb_app_id: 717157511826431
 
 social:
   - title: twitter
