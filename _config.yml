@@ -21,6 +21,7 @@ social:
     url: https://www.youtube.com/channel/UCEmelQhyVjPdN07V286mt6g
 
 # Build settings
+exclude: [vendor]
 markdown: kramdown
 permalink: pretty
 sass:
