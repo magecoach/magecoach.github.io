@@ -5,7 +5,7 @@
 
 ## Welcome to the Magento Performance Coach
 
-Mage.coach is a set of Open Source tools that helps make your web pages faster.
+Mage.coach is a set of Open Source tools that helps you make your web pages faster.
 
 Try out Mage.coach now and improve your Magento website!
 
