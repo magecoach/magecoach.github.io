@@ -8,9 +8,9 @@
   "headline": "{{page.title}}",
   "image": {
     "@type": "ImageObject",
-    "url": "{{site.static-url}}{{post.image}}",
-    "height": 800,
-    "width": 800
+    "url": "{{site.static-url}}{{site.image}}",
+    "height": 100,
+    "width": 100
   },
   "datePublished": "{{page.datePublished}}",
   "dateModified": "{{page.dateModified}}",
