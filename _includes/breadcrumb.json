@@ -1,0 +1,16 @@
+{
+ "@context": "http://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "{% if page.url %}{{ page.url | escape }}{% else %}{{ site.url | escape }}{% endif %}",
+    "name": "{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"
+    }
+  }
+ ]
+}
