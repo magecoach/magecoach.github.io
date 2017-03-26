@@ -5,18 +5,18 @@
     "@type": "WebPage",
     "@id": "{{page.url}}"
   },
-  "headline": "{{post.title}}",
+  "headline": "{{page.title}}",
   "image": {
     "@type": "ImageObject",
     "url": "{{site.static-url}}{{post.image}}",
     "height": 800,
     "width": 800
   },
-  "datePublished": "{{post.datePublished}}",
-  "dateModified": "{{post.dateModified}}",
+  "datePublished": "{{page.datePublished}}",
+  "dateModified": "{{page.dateModified}}",
   "author": {
     "@type": "Person",
-    "name": "{{post.authorname}}"
+    "name": "{{page.authorname}}"
   },
    "publisher": {
     "@type": "Organization",
