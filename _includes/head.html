@@ -47,11 +47,12 @@
 	<script async src="https://cdn.ampproject.org/v0.js"></script>
 	<script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
 	<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-	{% if page.nav == 'faq'  %}
+	{% if page.nav == 'faq' %}
 	<script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
 	{% endif %}
-	{% if page.nav == 'examples'  %}
+	{% if page.nav == 'examples' %}
 	<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
 	{% endif %}
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel='stylesheet' type='text/css'>
+  {% if page.nav == 'blog' %}<script type="application/ld+json">{% include articles.json %}</script>{% endif %}
 </head>

@@ -4,6 +4,9 @@ title: Mage.coach Sticker swag!
 description: Mage.coach Sticker swag!
 image: /img/blog/magecoach-stickers.jpg
 authorimage: /img/team/ray.svg
+authorname: Ray Bogman
+datePublished: 2017-03-20T08:00:00+08:00
+dateModified: 2017-03-20T08:00:00+08:00
 intro: Mage.coach Sticker swag!
 keywords: mage.coach, sticker, site, speed, webperf, performance, S3
 nav: blog
