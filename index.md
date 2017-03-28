@@ -12,7 +12,7 @@ image: https://static.mage.coach/img/magecoach-twitter.png
 
 # Welcome to the Magento Performance Coach
 
-Mage.coach is a set of Open Source tools that helps make your **Magento** web pages faster.
+Mage.coach is a set of Open Source tools that helps you make your **Magento** web pages faster.
 
 Try the **Magento Performance Coach** now and improve your Magento website!
 
