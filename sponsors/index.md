@@ -2,7 +2,7 @@
 layout: default
 title: Want to be a Mage.coach Sponsor? Signup!.
 alt: Contribute, make Mage.coach better!
-description: Here is examples of what the result looks like, when you run sitespeed.io.
+description: Do you want to help us keeping Mage.coach up and running? Like to contribute? Send us a message!
 keywords: mage.coach, examples, results, wpo, web performance optimization
 nav: sponsors
 image: https://static.mage.coach/img/magecoach-twitter.png

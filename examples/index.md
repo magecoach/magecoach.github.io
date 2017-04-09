@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Example of a mage.coach run.
-description: Here is examples of what the result looks like, when you run sitespeed.io.
+description: Here are some examples of what the Magento Performance results looks like, when you run.mage.coach.
 keywords: mage.coach, examples, results, wpo, web performance optimization
 nav: examples
 image: https://static.mage.coach/img/magecoach-twitter.png
