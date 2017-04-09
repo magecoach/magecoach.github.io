@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The mage.coach blog
-description: The latest news from the mage.coach world
+description: The latest news about Accessibility, Best practices, Performance and Magento related advice at Mage.coach.
 keywords: mage.coach, ray bogman, ronald bethlehem
 nav: blog
 ---

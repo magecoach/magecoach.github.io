@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mage.coach Sticker swag!
-description: Mage.coach Sticker swag!
+description: Mage.coach Sticker swag! Like a Mage.coach sticker? Meet us at Magento events!
 image: /img/blog/magecoach-stickers.jpg
 authorimage: /img/team/ray.svg
 authorname: Ray Bogman

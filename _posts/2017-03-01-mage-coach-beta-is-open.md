@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mage.coach Beta is open for testing!
-description: Mage.coach Beta is open for testing!
+description: Mage.coach Beta is open for testing! Go to https://run.mage.coach/ now!
 image: /img/example/magecoach-hero.jpg
 authorimage: /img/team/ray.svg
 authorname: Ray Bogman

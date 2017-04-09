@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frequently asked questions for mage.coach
+title: Frequently asked questions about Accessibility, Best practices, Performance and Magento related advice at Mage.coach.
 description: Questions and answers for mage.coach.
 keywords: mage.coach faq, questions, frequently, asked
 nav: faq
