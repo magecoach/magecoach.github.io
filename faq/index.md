@@ -8,7 +8,7 @@ nav: faq
 ---
 
 # FAQ
-
+<div>
 <amp-accordion>
   <section expanded>
     <h3>Why Mage.coach?</h3>
@@ -27,3 +27,4 @@ nav: faq
     <ul><li>Mobile3g (1.6 Mbps/768 Kbps - 300 RTT)</li><li>Mobile3g fast (1.6 Mbps/768 Kbps - 150 RTT)</li><li>Mobile3g slow (780 Kbps/330 Kbps - 200 RTT)</li><li>Mobile3g gem (400 Kbps/400 Kbps - 300 RTT)</li><li>Mobile2g (0.35 Mbps/328 Kbps - 28 RTT)</li><li>Cable (5 Mbps/1 Mbps - 28 RTT)</li><li>Native (the current unthrottled connection)</li></ul>
   </section>
 </amp-accordion>
+</div
