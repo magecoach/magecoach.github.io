@@ -12,17 +12,15 @@ nav: faq
 <amp-accordion>
   <section expanded>
     <h3>Why Mage.coach?</h3>
-     <div>Mage.coach started as a hobby project some time back. It all relates to the passion about speedy websites. Magento Performance became important early on. So we wanted to create a build a tool witch help on a daily basis and can guide you while fixing your Magento website.</div>
+     <div>Mage.coach started as a hobby project some time back. It all relates to the passion about speedy websites. <strong>Magento Performance</strong> became important early on. So we wanted to create a build a tool witch help on a daily basis and can guide you while fixing your Magento website.</div>
   </section>
   <section>
     <h3>What's the deal with the Penguin and Iceberg?</h3>
-    <p>Our mascout the Penguin is the icon of the open source project called Linux, and a strong foundation we believe in. And it just looks friendly! The iceberg is more like a metaphor, it stands for the 80/20 rule. Regarding Magento performance: 80 Procent is related to the Magento frontend, while 20 procent is server related. So Magento Frontend Performance optimization is an important job! Run, Analyze and Fix.
-    </p>
+    <div>Our mascout the Penguin is the icon of the open source project called Linux, and a strong foundation we believe in. And it just looks friendly! The iceberg is more like a metaphor, it stands for the 80/20 rule. Regarding Magento performance: 80 Procent is related to the Magento frontend, while 20 procent is server related. So Magento Frontend Performance optimization is an important job! Run, Analyze and Fix.</div>
   </section>
   <section>
     <h3>What happens when you test my site?</h3>
-    <p>The online version of run.mage.coach will test a page against web performance best practice rules and fetch timing metrics using the Navigation Timing API (one time per run). That is cool and if you want to be a real performance hero, you could test your whole site.
-    </p>
+    <div>The online version of run.mage.coach will test a page against web performance best practice rules and fetch timing metrics using the Navigation Timing API (one time per run). That is cool and if you want to be a real performance hero, you could test your whole site.</div>
   </section>
   <section>
     <h3>What are the different connection types?</h3>
