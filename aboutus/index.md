@@ -24,6 +24,8 @@ At [SupportDesk B.V.](https://www.supportdesk.nu/){:title="SupportDesk - Magento
 
 At Magento events such as Magento Developers Paradise, Meet Magento, Magento Live, and Magento Imagine, he has been a regular speaker since 2009. He has participated in reviewing Mastering Magento (2012), Mastering Magento Theme Design (2014), Magento Administration Guide (2014), Learning Magento Theme Development (2014), and the video, Mastering Magento (2013), all by Packt Publishing.
 
-In 2016 his first Magento book got pushished, [Magento 2 Cookbook](https://mage2cookbook.com/){:title="Magento 2 Cookbook by Ray Bogman"}
+In 2016 his first Magento book got published, Magento 2 Cookbook. By the end of 2016 he created a new Magento Performance Open Source project called: [Mage.coach](https://mage.coach){:title="Mage.coach"}.
+
+Currently he is working for Magento as a Business Solutions Architect in the EMEA region.
 
 ## Ronald Bethlehem
